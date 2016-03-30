@@ -1,0 +1,6 @@
+F:\Dev\AutoWDDataBacking\AutoWDDataBacking\bin\Debug\AutoWDDataBacking.exe.config
+F:\Dev\AutoWDDataBacking\AutoWDDataBacking\bin\Debug\AutoWDDataBacking.exe
+F:\Dev\AutoWDDataBacking\AutoWDDataBacking\bin\Debug\AutoWDDataBacking.pdb
+F:\Dev\AutoWDDataBacking\AutoWDDataBacking\obj\Debug\AutoWDDataBacking.exe
+F:\Dev\AutoWDDataBacking\AutoWDDataBacking\obj\Debug\AutoWDDataBacking.pdb
+F:\Dev\AutoWDDataBacking\AutoWDDataBacking\obj\Debug\AutoWDDataBacking.csprojResolveAssemblyReference.cache
